@@ -6,17 +6,21 @@
     - category: Swords
       icon: "textures/items/diamond_sword"
       items:
+        - item: "netherite_sword"
+          buy: 6000
+          sell: 500
+          icon: "textures/items/diamond_sword"
         - item: "diamond_sword"
-          buy: 1000
+          buy: 5000
           sell: 500
           icon: "textures/items/diamond_sword"
         - item: "iron_sword"
-          buy: 500
-          sell: 250
+          buy: 4000
+          sell: 400
           icon: "textures/items/iron_sword"
         - item: "stone_sword"
-          buy: 250
-          sell: 125
+          buy: 3000
+          sell: 300
           icon: "textures/items/stone_sword"
     - category: Pickaxes
       icon: "textures/items/diamond_pickaxe"
